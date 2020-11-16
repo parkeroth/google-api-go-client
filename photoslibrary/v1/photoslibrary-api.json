@@ -880,6 +880,10 @@
           "description": "Description of the media item. This is shown to the user in the item's\ninfo section in the Google Photos app.",
           "type": "string"
         },
+        "filename": {
+          "description": "Filename of the media item. This is shown to the user in the item's info section in the Google Photos app.",
+          "type": "string"
+        },
         "id": {
           "description": "Identifier for the media item. This is a persistent identifier that can be\nused between sessions to identify this media item.",
           "type": "string"
